@@ -37,11 +37,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-https://imgur.com/a/Isc1Nrn
-<img src='http://i.imgur.com/Isc1Nrn.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<img src='https://i.imgur.com/4pImg37.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
-(https://i.imgur.com/4pImg37.gif)
+[https://imgur.com/a/Isc1Nrn](https://i.imgur.com/5utzoto.gif)
+<img src='https://i.imgur.com/5utzoto.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
