@@ -37,9 +37,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-[https://imgur.com/a/Isc1Nrn](https://i.imgur.com/5utzoto.gif)
-<img src='https://i.imgur.com/5utzoto.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<p align="center">
+  <a href="https://imgur.com/a/Isc1Nrn" target="_blank">
+    <img src="https://i.imgur.com/5utzoto.gif" alt="Video Walkthrough" width="500">
+  </a>
+</p>
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
