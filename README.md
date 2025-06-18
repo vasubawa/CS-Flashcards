@@ -38,7 +38,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 [https://imgur.com/a/Isc1Nrn](https://i.imgur.com/5utzoto.gif)
-
+https://i.imgur.com/5utzoto.gif
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
