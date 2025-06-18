@@ -39,7 +39,8 @@ Here's a walkthrough of implemented required features:
 
 [https://imgur.com/a/Isc1Nrn](https://i.imgur.com/5utzoto.gif)
 
-<img src='http://i.imgur.com/Isc1Nrn.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
+https://i.imgur.com/5utzoto.mp4
+<img src='https://i.imgur.com/5utzoto.mp4' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
 [ScreenToGif](https://www.screentogif.com/) for Windows
 
